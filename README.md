@@ -1,2 +1,2 @@
 # imap-dedup
-Java bases e-mail deduplication tool
+Java based e-mail deduplication tool
